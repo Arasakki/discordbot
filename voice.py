@@ -160,4 +160,4 @@ async def stop(ctx):
 
 
 
-client.run("ODIwMjQ4NzMwOTM0NDQ0MDUz.YEyaKA.TIR27CtAzWZLv6bqoTEuwJnLv8k")
+client.run("")
